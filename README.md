@@ -74,7 +74,7 @@ This project was built using Express.js, MongoDB, and EJS. It's a basic implemen
 
 If you have any questions or suggestions, feel free to contact the project maintainers:
 
-- Your Name <maheshwariayush020@gmail.com>
+- Ayush Maheshwari <maheshwariayush020@gmail.com>
 
 ## Acknowledgments
 
